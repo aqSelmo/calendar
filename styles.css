@@ -1,0 +1,6 @@
+.month{
+    display: none;
+}
+.active-month{
+    display: block!important;
+}
